@@ -55,9 +55,9 @@ header {
 }
 
 .button1{
-    border-radius: 30%;
-    display: flex;
-    align-self: center
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 1rem;
  
 }
 
@@ -79,7 +79,7 @@ header {
 
 }
 
-.first-block {
+.jumbotron {
     background-color: #00008b;
     border: 1px #000000 solid;
     padding: 10px;
@@ -153,9 +153,9 @@ header {
 
 }
 
-.pink-block {
+.container-small {
     background-color: #ee82ee;
-    height: 80%;
+    
 
 
 
